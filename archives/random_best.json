@@ -1,0 +1,1 @@
+{"clf__C": 0.03807158379249393, "clf__class_weight": "balanced", "clf__multi_class": "multinomial", "clf__penalty": "l1", "clf__solver": "saga"}
